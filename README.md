@@ -4,7 +4,7 @@
 
 - Use _destructuring assignment_ to assign data to variables
 
-## Introduction
+## Introductiona
 
 As developers, sometimes we receive information in a collection (e.g., an
 `Object`) and we want to "pick and choose" elements out of the collection. It's
